@@ -1,3 +1,9 @@
+> [!WARNING]
+> **This project has been discontinued.**
+>
+> LogFlake was decommissioned in August 2026. This repository is archived and read-only:
+> it receives no further development, bug fixes or security updates.
+
 LogFlake Release Notes
 ===================
 
